@@ -1,0 +1,3 @@
+﻿  lb8.1.1.cpp
+C:\Users\Admin\source\repos\lb8.1.1\lb8.1.1\lb8.1.1.cpp(8,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lb8.1.1.vcxproj -> C:\Users\Admin\source\repos\lb8.1.1\x64\Debug\lb8.1.1.exe
